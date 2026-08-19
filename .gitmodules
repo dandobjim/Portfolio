@@ -1,0 +1,3 @@
+[submodule "Batch-Ingestion-Pipeline"]
+	path = Batch-Ingestion-Pipeline
+	url = https://github.com/dandobjim/Batch-Ingestion-Pipeline
