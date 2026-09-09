@@ -1,3 +1,6 @@
 [submodule "Batch-Ingestion-Pipeline"]
 	path = Batch-Ingestion-Pipeline
 	url = https://github.com/dandobjim/Batch-Ingestion-Pipeline
+[submodule "de-toolbox"]
+	path = de-toolbox
+	url = https://github.com/dandobjim/de-toolbox
